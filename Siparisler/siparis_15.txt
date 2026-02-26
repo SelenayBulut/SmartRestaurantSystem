@@ -1,0 +1,6 @@
+Sipariş Bilgileri:
+Yemek: Bos-0.0
+İçecek: Kola - 50.0
+Garson: Kerem
+Müşteri: Begüm
+Zaman: Sat May 18 12:53:42 TRT 2024

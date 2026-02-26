@@ -1,0 +1,6 @@
+Sipariş Bilgileri:
+Yemek: Mantı - 200.0
+İçecek: Bos-0.0
+Garson: Rüzgar
+Müşteri: Begüm
+Zaman: Sat May 18 12:53:42 TRT 2024
